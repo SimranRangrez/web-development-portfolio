@@ -1,0 +1,9 @@
+#container{
+   display: inline-flex;
+   flex-wrap: wrap;
+   gap: 100px;
+}
+
+.intro{
+   text-align: center;
+}

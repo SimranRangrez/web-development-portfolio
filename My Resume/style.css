@@ -1,0 +1,17 @@
+.image{
+  float: left;
+  margin-right: 10px;
+    position: relative;
+}
+
+ .intro{
+    background-color: #07113f;
+}
+
+@media(max-width:680px){
+  .intro{
+    display: inline;
+    width: 100%;
+   x
+  }  
+}

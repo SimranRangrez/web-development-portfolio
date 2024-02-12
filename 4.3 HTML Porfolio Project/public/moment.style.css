@@ -1,0 +1,29 @@
+body{
+    background-color: #d4aa8ecb;
+}
+
+.poster{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    position: relative;
+}
+
+.image{
+    border: 5px  solid rgb(63, 41, 23);
+    width:100%;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    color: #6d4825;
+}
+
+.description{
+    background-color: blanchedalmond;
+    color: black;
+    font-size: medium;
+}
